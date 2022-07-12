@@ -1,0 +1,4 @@
+all:
+    hax
+    hax
+a
