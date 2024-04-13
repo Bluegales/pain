@@ -32,7 +32,7 @@ reverseshell() {
 
 usage
 
-read -p "Enter your choice: " choice
+read choice
 case $choice in
     1)
         infect_make
